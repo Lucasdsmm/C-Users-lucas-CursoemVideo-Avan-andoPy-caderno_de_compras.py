@@ -1,4 +1,5 @@
 cd_dvd = []
+# estou mexendo no codigo lucas matrix 
 other = []
 school_supplies = []
 adapter_cable = []
